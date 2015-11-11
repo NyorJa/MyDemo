@@ -10,7 +10,7 @@
 
 	<name>MyDemo</name>
 	<description>Demo project for Spring Boot</description>
-
+<!-- test -->
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
